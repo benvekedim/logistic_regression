@@ -26,7 +26,7 @@ df['Age'].hist(bins=30)
 plt.xlabel('Age')
 ```
 
-![image](/img/age-HİST.png)
+![image](/img/agehıst.png)
 
 <p>Age vs Area Income jointplot grafiği oluşturalım.</p>
 
